@@ -3,7 +3,6 @@
 📌 **Organize, save, and restore tab groups effortlessly!**  
 This Chrome extension lets you save groups of tabs and reopen them later in one click.
 
-![Extension Screenshot](screenshot.png) *(Replace with actual screenshot)*
 
 ## 🌟 Features
 - Save all open tabs into named groups  
@@ -25,5 +24,5 @@ Since this extension isn't published on the Chrome Web Store yet, you can instal
 
 ### Method 2: From GitHub (Advanced)
 ```bash
-git clone https://github.com/yourusername/tab-groups-manager.git
+git clone https://github.comKaran-Codes-Hub/tabs-organiser.git
 cd tab-groups-manager
